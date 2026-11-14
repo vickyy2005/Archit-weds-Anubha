@@ -10,7 +10,7 @@ Interactive digital wedding invitation website inspired by the sacred city of Va
 ## Family Details
 - **Mishra Family** & **Tiwari Family**
 - **Archit** (Son of Shri. Upendra Tiwari & Late. Shobha Devi)
-- **Anubha** (Daughter of Shri. Prabhunath Mishra & Smt. Bimla Devi)
+- **Anubha** (Daughter of Shri. Prabhunath Mishra & Smt. Vimla Devi)
 
 ## Highlights
 - Sacred royal crest & Varanasi golden-hour theme
