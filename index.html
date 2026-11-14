@@ -1412,7 +1412,7 @@
 
 
 
-            height: 170vh;
+            height: 235vh;
 
 
 
@@ -3371,7 +3371,7 @@
 
 
 
-                height: 190vh !important;
+                height: 255vh !important;
 
             }
 
@@ -4524,12 +4524,12 @@
 
             <!-- PHOTO 4 -->
 
-            <div class="moment-card" data-index="2">
+            <div class="moment-card" data-index="3">
 
-                <img src="img 4.jpg" class="moment-image" alt="Our Moment 3">
+                <img src="img 4.jpg?v=20261124" class="moment-image" alt="Our Moment 4">
 
                 <div class="moment-caption">
-                    “A beautiful journey, together.”
+                    “Forever begins with you.”
                 </div>
 
             </div>
@@ -5422,15 +5422,21 @@
 
                     } else if (index === 1) {
 
-                        start = 0.28;
+                        start = 0.16;
 
-                        end = 0.60;
+                        end = 0.42;
+
+                    } else if (index === 2) {
+
+                        start = 0.44;
+
+                        end = 0.70;
 
                     } else {
 
                         start = 0.72;
 
-                        end = 1;
+                        end = 0.98;
 
                     }
 
@@ -5682,7 +5688,7 @@
 
                         const rotation =
 
-                            index === 1
+                            (index % 2 === 1)
 
                                 ? 2.5
 
