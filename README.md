@@ -5,7 +5,7 @@ Interactive digital wedding invitation website inspired by the sacred city of Va
 ## Celebrations
 - **Tilak Ceremony**: Gopalahi, Post – Kotwa Mishra, District – Dewariya (UP)
 - **Haldi, Vivah & Vidai**: Basdila Khurd, Post – Laxmipur Baboo, District – Kushinagar (UP)
-- **Date**: 11 December 2026
+- **Date**: 24 November 2026
 
 ## Family Details
 - **Mishra Family** & **Tiwari Family**
